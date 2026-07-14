@@ -1,0 +1,17 @@
+{
+  "name": "prob08_npm_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js",
+    "dev": "node --watch server.js",
+    "build": "echo 'Building application production files...'",
+    "clean": "echo 'Cleaning application caches...'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
